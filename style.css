@@ -1,0 +1,26 @@
+#container1{
+	background-color: #dbdcff;
+	padding: 20px;
+	margin: auto;
+}
+
+.container2{
+	background-color: #51539c;
+	width: 308px;
+	padding: 50px;
+	margin: auto;
+	box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.8);
+}
+
+body{
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Flag_of_Bavaria_(striped).svg/1200px-Flag_of_Bavaria_(striped).svg.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+#submit{
+	border-radius: 10px;
+	cursor: pointer;
+}
